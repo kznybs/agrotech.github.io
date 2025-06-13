@@ -24,7 +24,7 @@ const VRExperience = () => {
     {
       title: 'Operação de Máquinas',
       description: 'Treine com equipamentos agrícolas sem riscos, incluindo tratores e colheitadeiras',
-      image: 'https://images.pexels.com/photos/2280549/pexels-photo-2280549.jpeg?auto=compress&cs=tinysrgb&w=800',
+      image: 'https://i.imgur.com/xLU9BX4.png',
       icon: Headphones,
       color: 'from-blue-500 to-cyan-500',
       duration: '25 min',
