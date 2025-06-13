@@ -190,7 +190,7 @@ const Hero = () => {
                   className="relative z-10"
                 >
                   <img 
-                    src="https://images.pexels.com/photos/2280549/pexels-photo-2280549.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                    src="https://i.imgur.com/xLU9BX4.png" 
                     alt="Agricultura moderna com tecnologia VR"
                     className="rounded-3xl shadow-2xl"
                   />
