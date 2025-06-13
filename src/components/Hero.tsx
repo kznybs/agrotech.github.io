@@ -81,7 +81,7 @@ const Hero = () => {
                   controls
                   autoPlay
                   className="w-full h-full"
-                  poster="https://images.pexels.com/photos/2280549/pexels-photo-2280549.jpeg?auto=compress&cs=tinysrgb&w=1200"
+                  poster="https://www.youtube.com/watch?v=GV62mDjiyzA"
                 >
                   <source src="#" type="video/mp4" />
                   <p className="p-8 text-center text-gray-600">
