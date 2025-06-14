@@ -83,7 +83,7 @@ const Hero = () => {
                   className="w-full h-full"
                   poster="https://www.youtube.com/watch?v=GV62mDjiyzA"
                 >
-                  <source src="#" type="video/mp4" />
+                  <source src="/src/aws.mp3" type="video/mp3" />
                   <p className="p-8 text-center text-gray-600">
                     Vídeo demonstrativo da plataforma AgroTech Qualifica - Senai Grand Prix 2024
                   </p>
