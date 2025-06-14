@@ -77,18 +77,16 @@ const Hero = () => {
             </button>
             <div className="bg-white rounded-lg overflow-hidden">
               <div className="aspect-video">
-                <video
-                  controls
-                  autoPlay
-                  className="w-full h-full"
-                  poster="https://www.youtube.com/watch?v=GV62mDjiyzA"
-                >
-                  <source src="/src/aws.mp3" type="video/mp3" />
-                  <p className="p-8 text-center text-gray-600">
-                    Vídeo demonstrativo da plataforma AgroTech Qualifica - Senai Grand Prix 2024
-                  </p>
-                </video>
-              </div>
+  <iframe
+    className="w-full h-full"
+    src="https://www.youtube.com/embed/JS4sw26Ko7M"
+    title="Pitch Agrotech Qualifica - GP de Inovação América Latina"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  ></iframe>
+</div>
+
             </div>
           </div>
         </div>
