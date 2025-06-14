@@ -251,7 +251,7 @@ const Hero = () => {
               <div className="aspect-video">
   <iframe
     className="w-full h-full"
-    src="https://youtu.be/JS4sw26Ko7M?si=7OXOGR6ycymKU5VT" // substitua pelo ID do seu vídeo
+    src="https://youtube/JS4sw26Ko7M?si=7OXOGR6ycymKU5VT" // substitua pelo ID do seu vídeo
     title="AgroTech Qualifica"
     frameBorder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
