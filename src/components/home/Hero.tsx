@@ -249,19 +249,16 @@ const Hero = () => {
             </button>
             <div className="bg-white rounded-2xl overflow-hidden shadow-2xl">
               <div className="aspect-video">
-                <video
-                  controls
-                  autoPlay
-                  className="w-full h-full"
-                  poster="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1200px-YouTube_full-color_icon_%282017%29.svg.png"
-                >
-                  <source src="/scr/aws.mp3" type="video/mp4" />
-                  <div className="p-8 text-center text-gray-600">
-                    <h3 className="text-2xl font-bold mb-4">Demo AgroTech Qualifica</h3>
-                    <p>Vídeo demonstrativo da plataforma vencedora do Senai Grand Prix 2024</p>
-                  </div>
-                </video>
-              </div>
+  <iframe
+    className="w-full h-full"
+    src="https://www.youtube.com/embed/dQw4w9WgXcQ" // substitua pelo ID do seu vídeo
+    title="Demo AgroTech Qualifica"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  ></iframe>
+</div>
+
             </div>
           </motion.div>
         </motion.div>
