@@ -86,7 +86,6 @@ const Hero = () => {
     allowFullScreen
   ></iframe>
 </div>
-
             </div>
           </div>
         </div>
