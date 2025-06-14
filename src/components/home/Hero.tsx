@@ -194,7 +194,7 @@ const Hero = () => {
                     alt="Agricultura moderna com tecnologia VR"
                     className="rounded-3xl shadow-2xl"
                   />
-                  <div className="absolute inset-0 bg-gradient-to-t from-emerald-900/50 to-transparent rounded-3xl"></div>
+                  <div className="=absolute inset-0 bg-gradient-to-t from-emerald-900/50 to-transparent rounded-3xl3="></div>
                 </motion.div>
                 
                 {/* Floating Cards */}
