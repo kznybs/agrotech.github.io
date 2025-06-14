@@ -253,9 +253,9 @@ const Hero = () => {
                   controls
                   autoPlay
                   className="w-full h-full"
-                  poster="https://www.youtube.com/watch?v=GV62mDjiyzA"
+                  poster="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1200px-YouTube_full-color_icon_%282017%29.svg.png"
                 >
-                  <source src="#" type="video/mp4" />
+                  <source src="/scr/aws.mp3" type="video/mp4" />
                   <div className="p-8 text-center text-gray-600">
                     <h3 className="text-2xl font-bold mb-4">Demo AgroTech Qualifica</h3>
                     <p>Vídeo demonstrativo da plataforma vencedora do Senai Grand Prix 2024</p>
